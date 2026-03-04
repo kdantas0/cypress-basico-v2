@@ -1,9 +1,14 @@
-# Testes automatizados com Cypress - Básico
+# Cypress Test Automation – Basic Project
 
-👋 Seja bem-vindo(a)!
+Projeto de **automação de testes End-to-End utilizando Cypress**.
 
-É muito bom tê-lo(a) aqui. Tenho certeza que você vai adorar este curso. ❤️
+Este repositório demonstra testes automatizados para aplicações web utilizando Cypress e JavaScript.
 
+## Tecnologias utilizadas
+
+- Cypress
+- JavaScript
+- Node.js
 ## O que você vai aprender
 
 Durante o curso de testes automatizados com Cypress (básico), você vai aprender:
