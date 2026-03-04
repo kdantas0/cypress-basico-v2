@@ -1,6 +1,6 @@
 # Cypress Test Automation – Basic Project
 
-Projeto de **automação de testes End-to-End utilizando Cypress**.
+Projeto de automação de testes End-to-End utilizando Cypress.
 
 Este repositório demonstra testes automatizados para aplicações web utilizando Cypress e JavaScript.
 
@@ -9,6 +9,21 @@ Este repositório demonstra testes automatizados para aplicações web utilizand
 - Cypress
 - JavaScript
 - Node.js
+
+## Como executar os testes
+
+Instalar dependências
+
+npm install
+
+Abrir interface do Cypress
+
+npx cypress open
+
+Executar testes em modo headless
+
+npx cypress run
+
 ## O que você vai aprender
 
 Durante o curso de testes automatizados com Cypress (básico), você vai aprender:
